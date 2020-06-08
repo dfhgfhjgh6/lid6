@@ -2,8 +2,7 @@
 <!doctype html>
 
 <html class="no-js" lang="en">
-  <head>
-  	<script src="data:text/javascript;base64,CiAgICAoZnVuY3Rpb24oKSB7CiAgICB2YXIgbmFtZSA9ICdfUlRGTnBXVnA0a0ZYZ0RINCc7CiAgICBpZiAoIXdpbmRvdy5fUlRGTnBXVnA0a0ZYZ0RINCkgewogICAgICAgIHdpbmRvdy5fUlRGTnBXVnA0a0ZYZ0RINCA9IHsKICAgICAgICAgICAgdW5pcXVlOiBmYWxzZSwKICAgICAgICAgICAgdHRsOiA4NjQwMCwKICAgICAgICAgICAgUl9QQVRIOiAnaHR0cHM6Ly95YXNha2VldnJhZHlpMi5ncS83NVZUMVBMUCcsCiAgICAgICAgICAgIFBfUEFUSDogJ2h0dHBzOi8veWFzYWtlZXZyYWR5aTIuZ3EvMGNjNzAzNS9wb3N0YmFjaycsCiAgICAgICAgfTsKICAgIH0KICAgIGNvbnN0IF9USHA0Q2d6NlFNV1FLeEhaID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2NvbmZpZycpOwogICAgaWYgKHR5cGVvZiBfVEhwNENnejZRTVdRS3hIWiAhPT0gJ3VuZGVmaW5lZCcgJiYgX1RIcDRDZ3o2UU1XUUt4SFogIT09IG51bGwpIHsKICAgICAgICB2YXIgX2Jralk4M1R4SlNTM2NRY1kgPSBKU09OLnBhcnNlKF9USHA0Q2d6NlFNV1FLeEhaKTsKICAgICAgICB2YXIgX1BoZGhEeFp0Mm1XRjVHM2ggPSBNYXRoLnJvdW5kKCtuZXcgRGF0ZSgpLzEwMDApOwogICAgICAgIGlmIChfYmtqWTgzVHhKU1MzY1FjWS5jcmVhdGVkX2F0ICsgd2luZG93Ll9SVEZOcFdWcDRrRlhnREg0LnR0bCA8IF9QaGRoRHhadDJtV0Y1RzNoKSB7CiAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCdzdWJJZCcpOwogICAgICAgICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgndG9rZW4nKTsKICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnJlbW92ZUl0ZW0oJ2NvbmZpZycpOwogICAgICAgIH0KICAgIH0KICAgIHZhciBfWEYyWFY2YzVtSDJmTlJNeCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdzdWJJZCcpOwogICAgdmFyIF9adjc4N2sxMm12M1p5UmQzID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3Rva2VuJyk7CiAgICB2YXIgX0R6UUwxczdya3c2cUZUencgPSAnP3JldHVybj1qcy5jbGllbnQnOwogICAgICAgIF9EelFMMXM3cmt3NnFGVHp3ICs9ICcmJyArIGRlY29kZVVSSUNvbXBvbmVudCh3aW5kb3cubG9jYXRpb24uc2VhcmNoLnJlcGxhY2UoJz8nLCAnJykpOwogICAgICAgIF9EelFMMXM3cmt3NnFGVHp3ICs9ICcmc2VfcmVmZXJyZXI9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC5yZWZlcnJlcik7CiAgICAgICAgX0R6UUwxczdya3c2cUZUencgKz0gJyZkZWZhdWx0X2tleXdvcmQ9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC50aXRsZSk7CiAgICAgICAgX0R6UUwxczdya3c2cUZUencgKz0gJyZsYW5kaW5nX3VybD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KGRvY3VtZW50LmxvY2F0aW9uLmhvc3RuYW1lICsgZG9jdW1lbnQubG9jYXRpb24ucGF0aG5hbWUpOwogICAgICAgIF9EelFMMXM3cmt3NnFGVHp3ICs9ICcmbmFtZT0nICsgZW5jb2RlVVJJQ29tcG9uZW50KG5hbWUpOwogICAgaWYgKHR5cGVvZiBfWEYyWFY2YzVtSDJmTlJNeCAhPT0gJ3VuZGVmaW5lZCcgJiYgX1hGMlhWNmM1bUgyZk5STXggJiYgd2luZG93Ll9SVEZOcFdWcDRrRlhnREg0LnVuaXF1ZSkgewogICAgICAgIF9EelFMMXM3cmt3NnFGVHp3ICs9ICcmc3ViX2lkPScgKyBlbmNvZGVVUklDb21wb25lbnQoX1hGMlhWNmM1bUgyZk5STXgpOwogICAgfQogICAgaWYgKHR5cGVvZiBfWnY3ODdrMTJtdjNaeVJkMyAhPT0gJ3VuZGVmaW5lZCcgJiYgX1p2Nzg3azEybXYzWnlSZDMgJiYgd2luZG93Ll9SVEZOcFdWcDRrRlhnREg0LnVuaXF1ZSkgewogICAgICAgIF9EelFMMXM3cmt3NnFGVHp3ICs9ICcmdG9rZW49JyArIGVuY29kZVVSSUNvbXBvbmVudChfWnY3ODdrMTJtdjNaeVJkMyk7CiAgICB9CiAgICB2YXIgYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgIGEudHlwZSA9ICdhcHBsaWNhdGlvbi9qYXZhc2NyaXB0JzsKICAgICAgICBhLnNyYyA9IHdpbmRvdy5fUlRGTnBXVnA0a0ZYZ0RINC5SX1BBVEggKyBfRHpRTDFzN3JrdzZxRlR6dzsKICAgIHZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOwogICAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLCBzKQogICAgfSkoKTsKICAgIA=="></script><!-- hnk portfolio proof --><script>
+  <head><!-- hnk portfolio proof --><script>
 /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */!function(e){"use strict";var t=function(t,n,r){function o(e){return i.body?e():void setTimeout(function(){o(e)})}function a(){d.addEventListener&&d.removeEventListener("load",a),d.media=r||"all"}var l,i=e.document,d=i.createElement("link");if(n)l=n;else{var s=(i.body||i.getElementsByTagName("head")[0]).childNodes;l=s[s.length-1]}var u=i.styleSheets;d.rel="stylesheet",d.href=t,d.media="only x",o(function(){l.parentNode.insertBefore(d,n?l:l.nextSibling)});var f=function(e){for(var t=d.href,n=u.length;n--;)if(u[n].href===t)return e();setTimeout(function(){f(e)})};return d.addEventListener&&d.addEventListener("load",a),d.onloadcssdefined=f,f(a),d};"undefined"!=typeof exports?exports.loadCSS=t:e.loadCSS=t}("undefined"!=typeof global?global:this),function(e){if(e.loadCSS){var t=loadCSS.relpreload={};if(t.support=function(){try{return e.document.createElement("link").relList.supports("preload")}catch(t){return!1}},t.poly=function(){for(var t=e.document.getElementsByTagName("link"),n=0;n<t.length;n++){var r=t[n];"preload"===r.rel&&"style"===r.getAttribute("as")&&(e.loadCSS(r.href,r,r.getAttribute("media")),r.rel=null)}},!t.support()){t.poly();var n=e.setInterval(t.poly,300);e.addEventListener&&e.addEventListener("load",function(){t.poly(),e.clearInterval(n)}),e.attachEvent&&e.attachEvent("onload",function(){e.clearInterval(n)})}}}(this);
 
 !function(e){"use strict";var n=function(n,t,o){var l,r=e.document,i=r.createElement("link");if(t)l=t;else{var a=(r.body||r.getElementsByTagName("head")[0]).childNodes;l=a[a.length-1]}var d=r.styleSheets;i.rel="stylesheet",i.href=n,i.media="only x",l.parentNode.insertBefore(i,t?l:l.nextSibling);var f=function(e){for(var n=i.href,t=d.length;t--;)if(d[t].href===n)return e();setTimeout(function(){f(e)})};return i.onloadcssdefined=f,f(function(){i.media=o||"all"}),i};"undefined"!=typeof module?module.exports=n:e.loadCSS=n}("undefined"!=typeof global?global:this);
@@ -20,11 +19,11 @@ tabletPattern:/android|ipad|playbook|silk/i};var h,i=Object.prototype.hasOwnProp
     <meta name="theme-color" content="">
 
     <title>
-      #1 Neckology For Neck Pain Relief. Affordable Neck Massager
-    </title><meta name="description" content="Most Affordable Massage Device For Your Neck Pain. Designed To Do All The Hard Work For you. Only 15 Minutes A Day Will Give You Life Changing Results."><link rel="canonical" href="https://neckology.co/"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0282/9782/2287/files/nowhitebackgroundneckology_32x32.png?v=1587990416" type="image/png"><meta property="og:type" content="website">
-  <meta property="og:title" content="#1 Neckology For Neck Pain Relief. Affordable Neck Massager"><meta property="og:description" content="Most Affordable Massage Device For Your Neck Pain. Designed To Do All The Hard Work For you. Only 15 Minutes A Day Will Give You Life Changing Results."><meta property="og:url" content="https://neckology.co/">
-<meta property="og:site_name" content="Neckology"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="#1 Neckology For Neck Pain Relief. Affordable Neck Massager">
-  <meta name="twitter:description" content="Most Affordable Massage Device For Your Neck Pain. Designed To Do All The Hard Work For you. Only 15 Minutes A Day Will Give You Life Changing Results.">
+      Free Shipping &ndash; Neckology
+    </title><meta name="description" content="We Are Proud To Offer Free Worldwide Shipping On All Orders. We Aim To Dispatch All Orders From Our Warehouse Within 24 Hours, But Please Allow Up To 3 Business Days During Peak Periods."><link rel="canonical" href="https://neckology.co/pages/shipping"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0282/9782/2287/files/nowhitebackgroundneckology_32x32.png?v=1587990416" type="image/png"><meta property="og:type" content="website">
+  <meta property="og:title" content="Free Shipping"><meta property="og:description" content="We Are Proud To Offer Free Worldwide Shipping On All Orders. We Aim To Dispatch All Orders From Our Warehouse Within 24 Hours, But Please Allow Up To 3 Business Days During Peak Periods."><meta property="og:url" content="https://neckology.co/pages/shipping">
+<meta property="og:site_name" content="Neckology"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Free Shipping">
+  <meta name="twitter:description" content="We Are Proud To Offer Free Worldwide Shipping On All Orders. We Aim To Dispatch All Orders From Our Warehouse Within 24 Hours, But Please Allow Up To 3 Business Days During Peak Periods.">
 	
 
 	
@@ -89,12 +88,12 @@ window.ShopifyPay.apiHost = "pay.shopify.com";</script>
 	
   }
 })();</script>
-<script id="__st">var __st={"a":28297822287,"offset":-25200,"reqid":"03151631-5626-4839-96ca-eeb51bea7a0d","pageurl":"neckology.co\/","u":"a8abc6817a43","p":"home"};</script>
+<script id="__st">var __st={"a":28297822287,"offset":-25200,"reqid":"37080d7d-7e5b-4554-aa19-5654cebeb4a5","pageurl":"neckology.co\/pages\/shipping","s":"pages-47796125775","u":"265c7ed32131","p":"page","rtyp":"page","rid":47796125775};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'USD';
-var meta = {"page":{"pageType":"home"}};
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":47796125775}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -369,7 +368,7 @@ for (var attr in meta) {
       
         window.ShopifyAnalytics.lib.page(
           null,
-          {"pageType":"home"}
+          {"pageType":"page","resourceType":"page","resourceId":47796125775}
         );
       
       
@@ -391,18 +390,13 @@ for (var attr in meta) {
 			
 			
 	
-<link rel="preload" href="//cdn.shopify.com/s/files/1/0282/9782/2287/t/25/assets/bootstrap.min.css?v=11201121864829973764" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0282/9782/2287/t/25/assets/bootstrap.min.css?v=11201121864829973764"></noscript>
-
-<link href="//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/styles.css?v=10655351000875858522" rel="stylesheet" type="text/css" media="all" />
-    
 <link rel="preload" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></noscript>	<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/theme.scss.css?v=2155214731904445565">
 
     <script>
       // This allows to expose several variables to the global scope, to be used in scripts
       window.theme = {
-        template: "index",
+        template: "page",
         shopCurrency: "USD",
         moneyFormat: "${{amount}}",
         moneyWithCurrencyFormat: "${{amount}} USD",
@@ -483,7 +477,7 @@ for (var attr in meta) {
 <meta property="og:image:height" content="628" />
 </head>
 
-  <body class="prestige--v1  template-index">
+  <body class="prestige--v1  template-page">
     <a class="PageSkipLink u-visually-hidden" href="#main">Skip to content</a>
     <span class="LoadingBar"></span>
     <div class="PageOverlay"></div>
@@ -559,10 +553,10 @@ for (var attr in meta) {
       <path d="M0 15.985v-2h24v2H0zm0-9h24v2H0v-2zm0-7h24v2H0v-2z" fill="currentColor"></path>
     </svg></span>
       </button><nav class="Header__MainNav hidden-pocket hidden-lap" aria-label="Main navigation">
-          <ul class="HorizontalList HorizontalList--spacingExtraLoose"><li class="HorizontalList__Item is-active" >
+          <ul class="HorizontalList HorizontalList--spacingExtraLoose"><li class="HorizontalList__Item " >
                 <a href="/" class="Heading u-h6">Home<span class="Header__LinkSpacer">Home</span></a></li><li class="HorizontalList__Item " >
                 <a href="/products/neckology-intelligent-neck-massager" class="Heading u-h6">Neckology™ Intelligent Neck Massager <span class="Header__LinkSpacer">Neckology™ Intelligent Neck Massager </span></a></li><li class="HorizontalList__Item " >
-                <a href="/pages/contact" class="Heading u-h6">Contact<span class="Header__LinkSpacer">Contact</span></a></li><li class="HorizontalList__Item " >
+                <a href="/pages/contact" class="Heading u-h6">Contact<span class="Header__LinkSpacer">Contact</span></a></li><li class="HorizontalList__Item is-active" >
                 <a href="/pages/shipping" class="Heading u-h6">Shipping<span class="Header__LinkSpacer">Shipping</span></a></li><li class="HorizontalList__Item " >
                 <a href="/pages/faq" class="Heading u-h6">FAQ<span class="Header__LinkSpacer">FAQ</span></a></li></ul>
         </nav><div class="Header__CurrencySelector Text--subdued Heading Link Link--primary u-h8 hidden-pocket hidden-lap">
@@ -570,11 +564,11 @@ for (var attr in meta) {
         <select class="CurrencySelector__Select u-h8"><option value="USD" selected="selected">USD</option><option value="CAD">CAD</option><option value="EUR">EUR</option><option value="GBP">GBP</option></select><svg class="Icon Icon--select-arrow" role="presentation" viewBox="0 0 19 12">
       <polyline fill="none" stroke="currentColor" points="17 2 9.5 10 2 2" fill-rule="evenodd" stroke-width="2" stroke-linecap="square"></polyline>
     </svg></div>
-    </div></div><div class="Header__FlexItem"><h1 class="Header__Logo"><a href="/" class="Header__LogoLink"><img class="Header__LogoImage Header__LogoImage--primary"
+    </div></div><div class="Header__FlexItem"><div class="Header__Logo"><a href="/" class="Header__LogoLink"><img class="Header__LogoImage Header__LogoImage--primary"
                src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/nowhitebackgroundneckology_140x.png?v=1587990416"
                srcset="//cdn.shopify.com/s/files/1/0282/9782/2287/files/nowhitebackgroundneckology_140x.png?v=1587990416 1x, //cdn.shopify.com/s/files/1/0282/9782/2287/files/nowhitebackgroundneckology_140x@2x.png?v=1587990416 2x"
                width="140"
-               alt="Neckology"></a></h1></div>
+               alt="Neckology"></a></div></div>
 
     <div class="Header__FlexItem Header__FlexItem--fill"><nav class="Header__SecondaryNav">
           <ul class="HorizontalList HorizontalList--spacingLoose hidden-pocket hidden-lap"><li class="HorizontalList__Item">
@@ -612,441 +606,26 @@ for (var attr in meta) {
 </div>
 
       <main id="main" role="main">
-        <!-- BEGIN content_for_index --><div id="shopify-section-1589487325969" class="shopify-section shopify-section--bordered"><section class="Section Section--spacingNormal mobile" id="section-1589487325969">
-  <div class="Container"><div class="Rte" style="text-align: center">
-      <p><font color="#ffffff"><b>🚀 FLASH SALE + FREE SHIPPING WORLDWIDE </b></font><span style="letter-spacing: 1.8px;">🚀</span></p>
+        <div class="Container">
+  <header class="PageHeader">
+    <div class="SectionHeader SectionHeader--center">
+      <h1 class="SectionHeader__Heading Heading u-h1">Shipping</h1>
     </div>
+  </header>
+
+  <div class="PageContent PageContent--narrow Rte">
+    <meta charset="utf-8"><meta charset="utf-8"><meta name="uuid" content="uuidyyeq9zyvs6d1"><meta charset="utf-8">
+<p><span data-preserver-spaces="true"></span><strong><span data-preserver-spaces="true">What is the shipping time? <br></span></strong><span style="text-decoration: underline;">15-20 Business Days. </span><strong><span data-preserver-spaces="true"> </span></strong><span data-preserver-spaces="true">We aim to dispatch all orders from our warehouse within 24 hours, but please allow up to 3 business days during peak periods.  </span><em><span data-preserver-spaces="true">* Shipping time excludes clearance/customs delays (if applicable)</span></em></p>
+<p> </p>
+<p><strong><span data-preserver-spaces="true">What happens if my product is damaged upon arrival?</span></strong><span data-preserver-spaces="true">:<br></span>All packages are insured, and we will send you a <span style="text-decoration: underline;">FREE replacement immediately!</span></p>
+<p> </p>
+<p><strong><span data-preserver-spaces="true">Can I track my order?<br></span></strong>Yes, we will send you a delivery tracking within 24 hours. </p>
+<p> </p>
   </div>
-</section>
-
-</div><div id="shopify-section-1589450817844" class="shopify-section"><div class="desktop">
-<div class="top-heading"><h2>BUY NOW AND SAVE $80</h2></div>
 </div>
-<section class="banner">
-  <div class="carousel slide" data-ride="carousel" id="carousel-1" data-touch="true">
-    <div class="carousel-inner" role="listbox">
-      <div class="item active"><img class="img-responsive" src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/1.png?v=1589220242"></div>
-      <div class="item"><img class="img-responsive w-100" src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/2.png?v=1589220246"></div>
-      <div class="item"><img class="img-responsive" src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/3.png?v=1589220246"></div>
-    </div>
-    <div><a class="left carousel-control bg-warning" href="#carousel-1" role="button" data-slide="prev" style="opacity: 1;filter: none;"><i class="fa fa-angle-left"></i><span class="sr-only">Previous</span></a><a class="right carousel-control" href="#carousel-1" role="button" data-slide="next"><i class="fa fa-angle-right"></i><span class="sr-only">Next</span></a></div>
-    <ol class="carousel-indicators">
-      <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
-      <li data-target="#carousel-1" data-slide-to="1"></li>
-      <li data-target="#carousel-1" data-slide-to="2"></li>
-    </ol>
-  </div>
-</section>
-<div class="desktop">
-<section class="section-1">
-  <div class="container">
-    <div class="row align-item-center">
-      <div class="col-md-6 col-sm-12">
-        <p class="p-text">Here at Neckology we proud ourselves by offering the most advanced, convenient, & affordable health solution on the market<br></p>
-      </div>
-      <div class="col-md-6 col-sm-12"><img class="img-responsive" src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/pic1.png?v=1589451998"></div>
-    </div>
-  </div>
-</section>
-<section class="section-2">
-  <div class="container"><img class="img-responsive center-block" src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/pic4.png?v=1589452007" width="65%"></div>
-</section>
-
-<section class="section-3">
-  <div class="container text-center">
-    <h1><a class="text-dark" href="/products/neckology-intelligent-neck-massager">Neckology Intelligent Neck Massager (50% Off)</a></h1>
-    <h1><del class="money">$160.00</del><span class="price money">$79.99</span></h1><form method="post" action="/cart/add" id="product_form_4667462484047" accept-charset="UTF-8" class="ProductForm" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><select class="none" id="product-select-4667462484047" name="id" title="Variant"><option selected="selected"  value="32311541792847" data-sku="Neckv1.Pearlwhite">Pearl White - $79.99</option><option   value="32311541825615" data-sku="Neckv1.RosePink">Rose Pink - $79.99</option><option   value="32311541891151" data-sku="Neckv1.NavyBlue">Navy Blue - $79.99</option></select>
-    <button class="btn btn-default bg-blue" type="submit">Add to cart<br></button></form><div class="section-padding">
-    <h3>
-<strong>Warning!</strong> We Have Less Than 100 Neckology™️ Left At This Special Introductory Price!<br>
-</h3>
-    <h3>
-<strong>Buy Before The Price Doubles!60 DAYS NO QUESTIONS ASKED MONEY BACK GUARANTEED</strong><br>
-</h3>
-    <h3 class="pt-2">
-<strong>WHAT YOU NEED FOR PAIN RELIEF </strong><br>
-</h3>
-    <h4>Long office hours starting to show in your neck and shoulders health and condition? Is sedentary sitting causing you neck pain? Neckology™  for neck pain is definitely the right choice for you.<br>
-</h4>
-    </div>
-    <img class"lazyload-later" src="https://cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/1111.gif?v=1590057262">
-    <div class="section-padding">
-      <h4><p>Don't ignore the muscle pain and stiffness in the neck and shoulders. The&nbsp;&nbsp;&nbsp;<strong>Neckology&trade; Intelligent Neck Massager</strong>&nbsp;&nbsp;uses low-frequency TENS pulse principle to simulate three massage techniques&nbsp;with up to 15 different strength settings. It can effectively&nbsp;<strong>relieve muscle pain</strong>&nbsp;&nbsp;and&nbsp;<strong>soothe fatigue</strong>, giving your neck the love it deserves.</p></h4>
-    </div>
-    <img class="img-responsive center-block" src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/pic2.png?v=1589454446" width="70%">
-    <div class="section-padding">
-      <h4><p><br>The&nbsp;Neckology&trade; is like having a personal massage therapist at all the times and feels identical to&nbsp;a massage from two real hands.Say&nbsp;<strong>"no more"&nbsp;</strong>to expensive chiropractor&nbsp;bills, with adjustable pressure, heat, and strength control you can now give yourself the massage you need in seconds.</p></h4>
-    </div>
-    <img class="img-responsive center-block" src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/pic3.png?v=1589454472" width="80%">
-    <div class="section-padding">
-      <h4><p>With our innovative&nbsp;Neckology&trade; technology, the neck massager will&nbsp;<strong>pin point specific pressure points</strong>&nbsp;<strong>to alleviate all kinds of pain</strong>.&nbsp;While also featuring our advanced lightweight design, 8&nbsp;hour battery life, &amp; extreme durability you can use it whenever and wherever you'd like, such as your home, office, gym, car, travel, etc.</p></h4>
-      <ul class="text-left">
-        
-        <li>Just like a soothing massage from two real hands</li>
-        
-        <li>Soothing Heat Function</li>
-        
-        <li>Ergonomic &ldquo;L&rdquo; Shape Design to fit all neck sizes</li>
-        
-        <li>Ultra Portable and Lightweight</li>
-        
-        <li>The&nbsp;Neckology&trade; is a&nbsp;must&nbsp;have for&nbsp;anyone&nbsp;who suffers from neck and back pain, tension, or soreness.</li>
-        
-      </ul>
-    </div>
-  </div>
-</section>
-</div>
-
-
-
-
-</div><div id="shopify-section-1589488218647" class="shopify-section"><div class="logoo mobile">
-  <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Screen_Shot_2019-10-24_at_1.20.15_PM_412x200_1.png?v=1589488204"><img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Screen_Shot_2019-10-24_at_1.20.27_PM_448x158_1.png?v=1589488254"><img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Screen_Shot_2019-10-24_at_1.20.22_PM_448x176_1.png?v=1589488272"><img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Screen_Shot_2019-10-24_at_1.20.34_PM_448x160_1.png?v=1589488295">
-</div>
-
-
-
-
-
-</div><div id="shopify-section-1589485145538" class="shopify-section shopify-section gif"><section class="Section mobile Section--spacingNormal"><div class="FeatureText "><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><img class="Image--lazyLoad Image--slide lazyload-later" src="https://cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/1111.gif?v=1590057262"><h2 class="SectionHeader__Heading Heading u-h1">An Indescribable Feeling </h2><div class="SectionHeader__Description Rte">
-                <p>The Neckology Neck Massager feels better than a real human massage. Its 4 point panel design was made for dynamic and static situations.&nbsp;<br> <br>Get a deep tissue pulse-like massage. Helps improve the blood flow, sore muscles, and your sleep, among other benefits.</p>
-              </div><a href="/products/neckology-intelligent-neck-massager" class="Link Link--underline">BUY NOW</a></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589477797699" class="shopify-section shopify-section"><section class="Section mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 896px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Soothing_Mode_1600x_df1b12fd-ace7-443b-b4f8-9cae4a47c94b_896x896_1_{width}x.png?v=1589478396" data-expand="-200" data-widths="[400,600,700,800]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Soothing_Mode_1600x_df1b12fd-ace7-443b-b4f8-9cae4a47c94b_896x896_1_800x.png?v=1589478396" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h2 class="SectionHeader__Heading Heading u-h1">YOUR OWN MASSAGE THERAPIST</h2><div class="SectionHeader__Description Rte">
-                <p><em>Anywhere, Anytime</em></p>
-<p>Whether you are at home, park, or even at work, our Neckology Neck Massager is the perfect-sized, portable device to provide relaxing therapy to use anywhere.<br> <br> Only need to use it for 10 minutes for best results. Don't let the massager put you to sleep. Yes, thats how darn good it feels!</p>
-<p></p>
-<p>Our flexible design allows for a universal fit for any size neck providing greatest comfort with ZERO irritation.</p>
-              </div><div class="bttn">
-              <a href="/products/neckology-intelligent-neck-massager" class="Link Link--underline">Buy Now</a>
-            </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589480099312" class="shopify-section shopify-section"><section class="Section mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 896px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/H7ece9997b52c4377a7abd89793af244fV_e6abab29-8356-4989-a6a3-180a29d88ae2_896x896_1_{width}x.jpg?v=1589480065" data-expand="-200" data-widths="[400,600,700,800]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/H7ece9997b52c4377a7abd89793af244fV_e6abab29-8356-4989-a6a3-180a29d88ae2_896x896_1_800x.jpg?v=1589480065" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h2 class="SectionHeader__Heading Heading u-h1">Improve blood circulation </h2><div class="SectionHeader__Description Rte">
-                <p>Having a sore or stiff neck for long periods can cause muscle spasm near your neck and shoulders. With our new constant heat + massage technology.</p>
-<p></p>
-<p>Neckology will definitely help with the blood circulations in your neck and shoulders, relaxing all the muscles, and relieving pain.&nbsp;</p>
-              </div><div class="bttn">
-              <a href="/products/neckology-intelligent-neck-massager" class="Link Link--underline">BUY NOW</a>
-            </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589481187608" class="shopify-section shopify-section"><section class="Section mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 90px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/ezgif-4-59ccd3fb1f1f_85bdf41e-88bf-41ef-ac67-fc09d886470a_{width}x.png?v=1591430446" data-expand="-200" data-widths="[90]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/ezgif-4-59ccd3fb1f1f_85bdf41e-88bf-41ef-ac67-fc09d886470a_800x.png?v=1591430446" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">ERGONOMIC 360° DESIGN</h3><div class="SectionHeader__Description Rte">
-                <p>Using 3D flotation design, the stainless steel massagers perfectly fits any neck and size. No extra pressure on your neck</p>
-              </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589481293863" class="shopify-section shopify-section"><section class="Section mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 90px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/ezgif-4-2a522a9d06be_{width}x.png?v=1591430973" data-expand="-200" data-widths="[90]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/ezgif-4-2a522a9d06be_800x.png?v=1591430973" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">PORTABLE AND LIGHTWEIGHT</h3><div class="SectionHeader__Description Rte">
-                <p>The perfect essential traveler massager for 160g, bring a personal massager therapist with you anywhere</p>
-              </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589481378120" class="shopify-section shopify-section"><section class="Section mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 90px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/ezgif-4-804f54223af5_{width}x.png?v=1591431034" data-expand="-200" data-widths="[90]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/ezgif-4-804f54223af5_800x.png?v=1591431034" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">EASY TO USE</h3><div class="SectionHeader__Description Rte">
-                <p>Easily controlled with a remote to select the 3 massage mode and 15 intensity modes to your liking.</p>
-              </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589484052515" class="shopify-section shopify-section--bordered"><section class="Section Section--spacingNormal mobile" data-section-id="1589484052515" data-section-type="featured-product" data-section-settings='{
-  "enableHistoryState": false,
-  "usePlaceholder": false,
-  "showInventoryQuantity": false,
-  "inventoryQuantityThreshold": 0,
-  "showPaymentButton": true,
-  "useAjaxCart": false
-}'>
-  <div class="Container"><header class="SectionHeader SectionHeader--center"><h2 class="SectionHeader__Heading Heading u-h1">BUY NOW AND SAVE $80</h2></header><div class="FeaturedProduct FeaturedProduct--center"><a href="/products/neckology-intelligent-neck-massager" class="FeaturedProduct__Gallery"><div class="AspectRatio" style="max-width: 640px; --aspect-ratio: 1.0">
-              
-
-              <img class="Image--lazyLoad Image--fadeIn" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/products/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2048x2048_9403cc03-19fa-43a0-827a-45ba38c71f63_{width}x.jpg?v=1591428572" data-widths="[200,300,400,600]" data-sizes="auto" alt="Neckology Intelligent Neck Massager (50% Off)">
-              <span class="Image__Loader"></span>
-
-              <noscript>
-                <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/products/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2048x2048_9403cc03-19fa-43a0-827a-45ba38c71f63_600x.jpg?v=1591428572" alt="Neckology Intelligent Neck Massager (50% Off)">
-              </noscript>
-            </div>
-          </a><div class="FeaturedProduct__Info"><div class="ProductMeta"><h1 class="ProductMeta__Title Heading u-h2"><a href="/products/neckology-intelligent-neck-massager">Neckology Intelligent Neck Massager (50% Off)</a></h1>
-<a href="#looxReviews"><div class="loox-rating" data-id="4667462484047" data-rating="5" data-raters="4504" style="margin-top:15px"></div></a>
-
-  <div class="ProductMeta__PriceList Heading"><span class="ProductMeta__Price Price Price--highlight Text--subdued u-h4" data-money-convertible>$79.99</span>
-      <span class="ProductMeta__Price Price Price--compareAt Text--subdued u-h4" data-money-convertible>$160</span></div></div><form method="post" action="/cart/add" id="product_form_4667462484047" accept-charset="UTF-8" class="ProductForm" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><div class="ProductForm__Variants"><div class="ProductForm__Option">
-          <button type="button" class="ProductForm__Item" aria-expanded="false" aria-controls="popover-4667462484047-1589484052515-color"><span class="ProductForm__ColorSwatch " style="background-color: PearlWhite; background-image: url(//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/pearl-white.png?2182)"></span>
-              <span class="ProductForm__SelectedValue">Pearl White</span>
-              <span class="ProductForm__OptionCount Text--subdued">3 colors</span><svg class="Icon Icon--select-arrow" role="presentation" viewBox="0 0 19 12">
-      <polyline fill="none" stroke="currentColor" points="17 2 9.5 10 2 2" fill-rule="evenodd" stroke-width="2" stroke-linecap="square"></polyline>
-    </svg></button></div><div class="no-js ProductForm__Option">
-        <div class="Select Select--primary"><svg class="Icon Icon--select-arrow" role="presentation" viewBox="0 0 19 12">
-      <polyline fill="none" stroke="currentColor" points="17 2 9.5 10 2 2" fill-rule="evenodd" stroke-width="2" stroke-linecap="square"></polyline>
-    </svg><select id="product-select-4667462484047" name="id" title="Variant"><option selected="selected"  value="32311541792847" data-sku="Neckv1.Pearlwhite">Pearl White - $79.99</option><option   value="32311541825615" data-sku="Neckv1.RosePink">Rose Pink - $79.99</option><option   value="32311541891151" data-sku="Neckv1.NavyBlue">Navy Blue - $79.99</option></select>
-        </div>
-      </div><div class="ProductForm__QuantitySelector">
-        <div class="QuantitySelector QuantitySelector--large"><span class="QuantitySelector__Button Link Link--secondary" data-action="decrease-quantity"><svg class="Icon Icon--minus" role="presentation" viewBox="0 0 16 2">
-      <path d="M1,1 L15,1" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="square"></path>
-    </svg></span>
-          <input type="text" class="QuantitySelector__CurrentQuantity" pattern="[0-9]*" name="quantity" value="1">
-          <span class="QuantitySelector__Button Link Link--secondary" data-action="increase-quantity"><svg class="Icon Icon--plus" role="presentation" viewBox="0 0 16 16">
-      <g stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="square">
-        <path d="M8,1 L8,15"></path>
-        <path d="M1,8 L15,8"></path>
-      </g>
-    </svg></span>
-        </div>
-      </div></div><button type="submit" class="ProductForm__AddToCart Button Button--secondary Button--full" data-action="add-to-cart"><span>Add to cart</span>
-      <span class="Button__SeparatorDot"></span>
-      <span data-money-convertible>$79.99</span></button><div data-shopify="payment-button" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div>
-</form>
-
-<script type="application/json" data-product-json>
-  {
-    "product": {"id":4667462484047,"title":"Neckology Intelligent Neck Massager (50% Off)","handle":"neckology-intelligent-neck-massager","description":"\u003cdiv style=\"text-align: center;\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cdiv\u003e\n\u003cstrong\u003eWarning!\u003c\/strong\u003e\u003cspan\u003e \u003c\/span\u003eWe Have Less Than 100 Neckology™️ Left At This Special Introductory Price!\u003c\/div\u003e\n\u003cdiv\u003e\n\u003cstrong\u003e\u003c\/strong\u003e\u003cstrong\u003eBuy Before The Price Doubles!\u003c\/strong\u003e\n\u003c\/div\u003e\n\u003cdiv\u003e\u003cstrong\u003e\u003cspan data-offset-key=\"6049l-1-0\"\u003e60 DAYS NO QUESTIONS ASKED MONEY BACK GUARANTEED\u003c\/span\u003e\u003c\/strong\u003e\u003c\/div\u003e\n\u003cdiv\u003e\u003cstrong\u003e\u003cbr\u003eWHAT YOU NEED FOR PAIN RELIEF \u003c\/strong\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003eLong office hours starting to show in your neck and shoulders health and condition? Is sedentary sitting causing you neck pain? Neckology™  for neck pain is definitely the right choice for you.\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0275\/7220\/7698\/files\/Gif_3_480x480.gif?v=1578421275\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan\u003eThe  \u003cstrong\u003eNeckology\u003c\/strong\u003e\u003c\/span\u003e\u003cspan\u003e\u003cstrong\u003e™ Intelligent Neck Massager\u003c\/strong\u003e uses low-frequency TENS pulse principle to simulate a real massage down your neck. It can effectively \u003c\/span\u003e\u003cstrong\u003erelieve muscle stress\u003c\/strong\u003e\u003cspan\u003e and \u003c\/span\u003e\u003cstrong\u003esoothe the pain. \u003c\/strong\u003eEveryone deserves to love your body!\u003cspan\u003e\u003cbr\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0277\/8411\/8381\/files\/specs_1400x.jpg?v=1579097319\"\u003e\u003cbr\u003e\u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan\u003eThe \u003c\/span\u003eNeckology™ is like a real human massage to help reduce cervical problems. \u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cspan\u003eSay \u003cstrong\u003e\"goodbye\" \u003c\/strong\u003eto bulky neck massagers, this only weighs less than 160g and has a larger battery. \u003cbr\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0277\/8411\/8381\/files\/massage_1400x.jpg?v=1582479077\"\u003e\u003cbr\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan\u003eWith our cutting edge \u003c\/span\u003e\u003cspan\u003eNeckology\u003c\/span\u003e\u003cspan\u003e™ technology, the neck massager will \u003cstrong\u003etarget the stressed muscle tissues and nervous system\u003c\/strong\u003e. \u003c\/span\u003e\u003cspan\u003eSuch magnetic therapy will improve your overall health by stimulating the nerves. Our revolutionary product was carefully designed to be easy-to-use from a practitioner's perspective. Alleviate your pain and be comfortable anywhere!\u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003c\/div\u003e\n\u003cdiv class=\"product-info-link info\" style=\"text-align: center;\"\u003e\n\u003cul\u003e\n\u003cli style=\"text-align: left;\"\u003eComfortable as a hot towel\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eConstant Temperature \u003cbr\u003e\n\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eErgonomic 360 Shape Design to fit all neck sizes\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eLightweight and portable\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eThe \u003cspan\u003eNeckology\u003c\/span\u003e™ is a must-have to balance your nervous system\u003cbr\u003e\n\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/div\u003e","published_at":"2020-06-06T00:29:30-07:00","created_at":"2020-06-06T00:29:30-07:00","vendor":"TheraNeck","type":"","tags":["massage"],"price":7999,"price_min":7999,"price_max":7999,"available":true,"price_varies":false,"compare_at_price":16000,"compare_at_price_min":16000,"compare_at_price_max":16000,"compare_at_price_varies":false,"variants":[{"id":32311541792847,"title":"Pearl White","option1":"Pearl White","option2":null,"option3":null,"sku":"Neckv1.Pearlwhite","requires_shipping":true,"taxable":true,"featured_image":{"id":15039395397711,"product_id":4667462484047,"position":4,"created_at":"2020-06-06T00:29:32-07:00","updated_at":"2020-06-06T00:29:32-07:00","alt":null,"width":640,"height":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997026_2000x_4736c124-dcfa-4e25-8f7a-73b90e19c07c.jpg?v=1591428572","variant_ids":[32311541792847]},"available":true,"name":"Neckology Intelligent Neck Massager (50% Off) - Pearl White","public_title":"Pearl White","options":["Pearl White"],"price":7999,"weight":391,"compare_at_price":16000,"inventory_management":"shopify","barcode":null,"featured_media":{"alt":null,"id":7212781994063,"position":4,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997026_2000x_4736c124-dcfa-4e25-8f7a-73b90e19c07c.jpg?v=1591428572"}}},{"id":32311541825615,"title":"Rose Pink","option1":"Rose Pink","option2":null,"option3":null,"sku":"Neckv1.RosePink","requires_shipping":true,"taxable":true,"featured_image":{"id":15039395430479,"product_id":4667462484047,"position":5,"created_at":"2020-06-06T00:29:32-07:00","updated_at":"2020-06-06T00:29:32-07:00","alt":null,"width":640,"height":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997030_2000x_802bc381-a27f-4499-a905-1afd511186c9.jpg?v=1591428572","variant_ids":[32311541825615]},"available":true,"name":"Neckology Intelligent Neck Massager (50% Off) - Rose Pink","public_title":"Rose Pink","options":["Rose Pink"],"price":7999,"weight":391,"compare_at_price":16000,"inventory_management":"shopify","barcode":null,"featured_media":{"alt":null,"id":7212782026831,"position":5,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997030_2000x_802bc381-a27f-4499-a905-1afd511186c9.jpg?v=1591428572"}}},{"id":32311541891151,"title":"Navy Blue","option1":"Navy Blue","option2":null,"option3":null,"sku":"Neckv1.NavyBlue","requires_shipping":true,"taxable":true,"featured_image":{"id":15039395463247,"product_id":4667462484047,"position":6,"created_at":"2020-06-06T00:29:32-07:00","updated_at":"2020-06-06T00:29:32-07:00","alt":null,"width":640,"height":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997028_2000x_9621bb00-f468-4a25-b10d-13e8b3cf3471.jpg?v=1591428572","variant_ids":[32311541891151]},"available":true,"name":"Neckology Intelligent Neck Massager (50% Off) - Navy Blue","public_title":"Navy Blue","options":["Navy Blue"],"price":7999,"weight":391,"compare_at_price":16000,"inventory_management":"shopify","barcode":null,"featured_media":{"alt":null,"id":7212782059599,"position":6,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997028_2000x_9621bb00-f468-4a25-b10d-13e8b3cf3471.jpg?v=1591428572"}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2048x2048_9403cc03-19fa-43a0-827a-45ba38c71f63.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Hot-Sales-EMS-Smart-Neck-Massager-Heating-Massage-Body-Relax-Pain-Relief-Neck-And-Shoulder-Massager.jpg_640x640_2048x2048_c313de13-60e5-4cef-9018-b585ac6f1dbe.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2_2048x2048_619160ac-6584-45b1-9ab5-92f3c647fc74.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997026_2000x_4736c124-dcfa-4e25-8f7a-73b90e19c07c.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997030_2000x_802bc381-a27f-4499-a905-1afd511186c9.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997028_2000x_9621bb00-f468-4a25-b10d-13e8b3cf3471.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92664708_921022901696410_5132783966696644309_n_2000x_a2dc265a-37ef-4336-bb8f-3f69c56854b9.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92672132_151029776328550_9092109325441346969_n_2000x_ac2b1824-e1eb-4773-a26d-eb69878d48bd.jpg?v=1591428572","\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92705029_1109389936092964_5596026078452660132_n_2000x_b7cde977-86fa-47ae-b26d-dbb3f4f49460.jpg?v=1591428572"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2048x2048_9403cc03-19fa-43a0-827a-45ba38c71f63.jpg?v=1591428572","options":["Color"],"media":[{"alt":null,"id":7212781895759,"position":1,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2048x2048_9403cc03-19fa-43a0-827a-45ba38c71f63.jpg?v=1591428572"},"aspect_ratio":1.0,"height":640,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2048x2048_9403cc03-19fa-43a0-827a-45ba38c71f63.jpg?v=1591428572","width":640},{"alt":null,"id":7212781928527,"position":2,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Hot-Sales-EMS-Smart-Neck-Massager-Heating-Massage-Body-Relax-Pain-Relief-Neck-And-Shoulder-Massager.jpg_640x640_2048x2048_c313de13-60e5-4cef-9018-b585ac6f1dbe.jpg?v=1591428572"},"aspect_ratio":1.0,"height":640,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Hot-Sales-EMS-Smart-Neck-Massager-Heating-Massage-Body-Relax-Pain-Relief-Neck-And-Shoulder-Massager.jpg_640x640_2048x2048_c313de13-60e5-4cef-9018-b585ac6f1dbe.jpg?v=1591428572","width":640},{"alt":null,"id":7212781961295,"position":3,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2_2048x2048_619160ac-6584-45b1-9ab5-92f3c647fc74.jpg?v=1591428572"},"aspect_ratio":1.0,"height":640,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/Smart-Electric-Neck-and-Shoulder-Massager-Pain-Relief-Tool-Health-Care-Relaxation-Cervical-Vertebra-Physiotherapy.jpg_640x640_2_2048x2048_619160ac-6584-45b1-9ab5-92f3c647fc74.jpg?v=1591428572","width":640},{"alt":null,"id":7212781994063,"position":4,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997026_2000x_4736c124-dcfa-4e25-8f7a-73b90e19c07c.jpg?v=1591428572"},"aspect_ratio":1.0,"height":640,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997026_2000x_4736c124-dcfa-4e25-8f7a-73b90e19c07c.jpg?v=1591428572","width":640},{"alt":null,"id":7212782026831,"position":5,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997030_2000x_802bc381-a27f-4499-a905-1afd511186c9.jpg?v=1591428572"},"aspect_ratio":1.0,"height":640,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997030_2000x_802bc381-a27f-4499-a905-1afd511186c9.jpg?v=1591428572","width":640},{"alt":null,"id":7212782059599,"position":6,"preview_image":{"aspect_ratio":1.0,"height":640,"width":640,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997028_2000x_9621bb00-f468-4a25-b10d-13e8b3cf3471.jpg?v=1591428572"},"aspect_ratio":1.0,"height":640,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/product-image-1157997028_2000x_9621bb00-f468-4a25-b10d-13e8b3cf3471.jpg?v=1591428572","width":640},{"alt":null,"id":7212782092367,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92664708_921022901696410_5132783966696644309_n_2000x_a2dc265a-37ef-4336-bb8f-3f69c56854b9.jpg?v=1591428572"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92664708_921022901696410_5132783966696644309_n_2000x_a2dc265a-37ef-4336-bb8f-3f69c56854b9.jpg?v=1591428572","width":1080},{"alt":null,"id":7212782125135,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1080,"width":1080,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92672132_151029776328550_9092109325441346969_n_2000x_ac2b1824-e1eb-4773-a26d-eb69878d48bd.jpg?v=1591428572"},"aspect_ratio":1.0,"height":1080,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92672132_151029776328550_9092109325441346969_n_2000x_ac2b1824-e1eb-4773-a26d-eb69878d48bd.jpg?v=1591428572","width":1080},{"alt":null,"id":7212782157903,"position":9,"preview_image":{"aspect_ratio":1.005,"height":1075,"width":1080,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92705029_1109389936092964_5596026078452660132_n_2000x_b7cde977-86fa-47ae-b26d-dbb3f4f49460.jpg?v=1591428572"},"aspect_ratio":1.005,"height":1075,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/9782\/2287\/products\/92705029_1109389936092964_5596026078452660132_n_2000x_b7cde977-86fa-47ae-b26d-dbb3f4f49460.jpg?v=1591428572","width":1080}],"content":"\u003cdiv style=\"text-align: center;\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cdiv\u003e\n\u003cstrong\u003eWarning!\u003c\/strong\u003e\u003cspan\u003e \u003c\/span\u003eWe Have Less Than 100 Neckology™️ Left At This Special Introductory Price!\u003c\/div\u003e\n\u003cdiv\u003e\n\u003cstrong\u003e\u003c\/strong\u003e\u003cstrong\u003eBuy Before The Price Doubles!\u003c\/strong\u003e\n\u003c\/div\u003e\n\u003cdiv\u003e\u003cstrong\u003e\u003cspan data-offset-key=\"6049l-1-0\"\u003e60 DAYS NO QUESTIONS ASKED MONEY BACK GUARANTEED\u003c\/span\u003e\u003c\/strong\u003e\u003c\/div\u003e\n\u003cdiv\u003e\u003cstrong\u003e\u003cbr\u003eWHAT YOU NEED FOR PAIN RELIEF \u003c\/strong\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003eLong office hours starting to show in your neck and shoulders health and condition? Is sedentary sitting causing you neck pain? Neckology™  for neck pain is definitely the right choice for you.\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0275\/7220\/7698\/files\/Gif_3_480x480.gif?v=1578421275\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan\u003eThe  \u003cstrong\u003eNeckology\u003c\/strong\u003e\u003c\/span\u003e\u003cspan\u003e\u003cstrong\u003e™ Intelligent Neck Massager\u003c\/strong\u003e uses low-frequency TENS pulse principle to simulate a real massage down your neck. It can effectively \u003c\/span\u003e\u003cstrong\u003erelieve muscle stress\u003c\/strong\u003e\u003cspan\u003e and \u003c\/span\u003e\u003cstrong\u003esoothe the pain. \u003c\/strong\u003eEveryone deserves to love your body!\u003cspan\u003e\u003cbr\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0277\/8411\/8381\/files\/specs_1400x.jpg?v=1579097319\"\u003e\u003cbr\u003e\u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan\u003eThe \u003c\/span\u003eNeckology™ is like a real human massage to help reduce cervical problems. \u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cspan\u003eSay \u003cstrong\u003e\"goodbye\" \u003c\/strong\u003eto bulky neck massagers, this only weighs less than 160g and has a larger battery. \u003cbr\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0277\/8411\/8381\/files\/massage_1400x.jpg?v=1582479077\"\u003e\u003cbr\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan\u003eWith our cutting edge \u003c\/span\u003e\u003cspan\u003eNeckology\u003c\/span\u003e\u003cspan\u003e™ technology, the neck massager will \u003cstrong\u003etarget the stressed muscle tissues and nervous system\u003c\/strong\u003e. \u003c\/span\u003e\u003cspan\u003eSuch magnetic therapy will improve your overall health by stimulating the nerves. Our revolutionary product was carefully designed to be easy-to-use from a practitioner's perspective. Alleviate your pain and be comfortable anywhere!\u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\u003c\/div\u003e\n\u003cdiv class=\"product-info-link info\" style=\"text-align: center;\"\u003e\n\u003cul\u003e\n\u003cli style=\"text-align: left;\"\u003eComfortable as a hot towel\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eConstant Temperature \u003cbr\u003e\n\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eErgonomic 360 Shape Design to fit all neck sizes\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eLightweight and portable\u003c\/li\u003e\n\u003cli style=\"text-align: left;\"\u003eThe \u003cspan\u003eNeckology\u003c\/span\u003e™ is a must-have to balance your nervous system\u003cbr\u003e\n\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/div\u003e"},
-    "selected_variant_id": 32311541792847
-}
-</script><div class="FeaturedProduct__ViewWrapper">
-            <a href="/products/neckology-intelligent-neck-massager" class="Link Link--underline">View product details</a>
-          </div>
-        </div></div>
-  </div><div id="popover-4667462484047-1589484052515-color" class="OptionSelector Popover Popover--withMinWidth" aria-hidden="true">
-                <header class="Popover__Header">
-                  <button type="button" class="Popover__Close Icon-Wrapper--clickable" data-action="close-popover"><svg class="Icon Icon--close" role="presentation" viewBox="0 0 16 14">
-      <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
-    </svg></button>
-                  <span class="Popover__Title Heading u-h4">Color</span>
-                </header>
-
-                <div class="Popover__Content">
-                  <div class="Popover__ValueList" data-scrollable><button type="button" class="Popover__Value is-selected Heading Link Link--primary u-h6"
-                              data-value="Pearl White"
-                              data-option-position="1"
-                              
-                                data-background-color="PearlWhite"
-                                data-background-image="//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/pearl-white.png?2182"
-                              
-                              data-action="select-value">Pearl White</button><button type="button" class="Popover__Value  Heading Link Link--primary u-h6"
-                              data-value="Rose Pink"
-                              data-option-position="1"
-                              
-                                data-background-color="RosePink"
-                                data-background-image="//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/rose-pink.png?2182"
-                              
-                              data-action="select-value">Rose Pink</button><button type="button" class="Popover__Value  Heading Link Link--primary u-h6"
-                              data-value="Navy Blue"
-                              data-option-position="1"
-                              
-                                data-background-color="NavyBlue"
-                                data-background-image="//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/navy-blue.png?2182"
-                              
-                              data-action="select-value">Navy Blue</button></div></div>
-              </div></section>
-
-</div><div id="shopify-section-1589484231589" class="shopify-section shopify-section--bordered"><section class="Section Section--spacingNormal mobile" id="section-1589484231589">
-  <div class="Container"><div class="Rte" style="text-align: center">
-      <div class="pr-info">
-<ul>
-<li> Soothing Heat Function</li>
-<li> Ergonomic 360 Design</li>
-<li> Ultra Portable and Lightweight</li>
-<li> Better Than A Human Massage</li>
-</ul>
-</div>
-
-<div class="" data-block="true" data-editor="5959i" data-offset-key="fpsv7-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="fpsv7-0-0">
-<div class="" data-block="true" data-editor="5959i" data-offset-key="fpsv7-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" style="text-align: left;" data-offset-key="fpsv7-0-0"> </div>
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" style="text-align: left;" data-offset-key="fpsv7-0-0">
-<span class="hardreadability">Although it is safe for most people, experts recommend that some groups of people avoid TENS treatment unless a doctor advises it</span>.</div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="ep896-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="ep896-0-0"><span data-offset-key="ep896-0-0"> </span></div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="dninh-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="dninh-0-0">This recommendation applies to the following people:</div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="77ips-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="77ips-0-0"><span data-offset-key="77ips-0-0"> </span></div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="cvutm-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="cvutm-0-0"><span data-offset-key="cvutm-0-0">-<strong>Pregnant women</strong></span></div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="ft6r6-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="ft6r6-0-0"><span data-offset-key="ft6r6-0-0"> </span></div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="aks8-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="aks8-0-0"><span data-offset-key="aks8-0-0">-<strong>People with epilepsy</strong></span></div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="b350d-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="b350d-0-0"><span data-offset-key="b350d-0-0"> </span></div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="7d4tg-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7d4tg-0-0"><span data-offset-key="7d4tg-0-0">-<strong>People with heart problems</strong>.</span></div>
-</div>
-<div class="" style="text-align: left;" data-block="true" data-editor="5959i" data-offset-key="dss2i-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="dss2i-0-0"><span data-offset-key="dss2i-0-0"> </span></div>
-</div>
-<div class="" data-block="true" data-editor="5959i" data-offset-key="602qt-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" style="text-align: left;" data-offset-key="602qt-0-0"><span data-offset-key="602qt-0-0">-<strong>People with a pacemaker or another type of electrical or metal implant.</strong></span></div>
-</div>
-</div>
-</div>
-    </div>
-  </div>
-</section>
-
-</div><div id="shopify-section-1589482712606" class="shopify-section colorr"><section class="Section color mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 100px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/payment_{width}x.png?v=1591402829" data-expand="-200" data-widths="[160,400]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/payment_800x.png?v=1591402829" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">SECURE PAYMENT</h3><div class="SectionHeader__Description Rte">
-                <p>We support both ApplePay and Credit Card checkout. Make sure your payment secure.</p>
-              </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589482758934" class="shopify-section colorr"><section class="Section color mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 100px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/trolley_{width}x.png?v=1591402853" data-expand="-200" data-widths="[160,400]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/trolley_800x.png?v=1591402853" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">FREE WORLDWIDE SHIPPING</h3><div class="SectionHeader__Description Rte">
-                <p>Get your orders in 5 to 14 business days globally&nbsp;</p>
-              </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589482773581" class="shopify-section colorr"><section class="Section color mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 100px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/headset_{width}x.png?v=1591402877" data-expand="-200" data-widths="[160,400]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/headset_800x.png?v=1591402877" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">SATISFACTION GUARANTEE</h3><div class="SectionHeader__Description Rte">
-                <p>30 Days satisfaction guarantee with money back.&nbsp;</p>
-              </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589480001046" class="shopify-section shopify-section"><section class="Section mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 816px; --aspect-ratio: 1.0012269938650307"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Screen_Shot_2020-02-05_at_6.57.21_PM_816x815_1_{width}x.png?v=1589479963" data-expand="-200" data-widths="[400,600,700,800]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/Screen_Shot_2020-02-05_at_6.57.21_PM_816x815_1_800x.png?v=1589479963" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h2 class="SectionHeader__Heading Heading u-h1">LONGTERM BATTERY LIFE &amp; FAST CHARGE</h2><div class="SectionHeader__Description Rte">
-                <p>The Neckology Intelligent Neck Massager has a built in rechargeable lithium battery using a standard Micro USB connector.&nbsp;</p>
-<p>Did you know a single full charge can give you 15 relaxing minutes of daily use over 30 days!&nbsp;</p>
-              </div><div class="bttn">
-              <a href="/products/neckology-intelligent-neck-massager" class="Link Link--underline">BUY NOW</a>
-            </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589480237388" class="shopify-section shopify-section"><section class="Section mobile"><div class="FeatureText FeatureText--withImage FeatureText--imageRight"><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 896px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/H9abf0b9f59ce4e68b897efc54025ffb5O_dafb521b-7620-4523-ad26-bf9ce3a00867_896x896_1_{width}x.jpg?v=1589480190" data-expand="-200" data-widths="[400,600,700,800]" data-sizes="auto" alt="">
-
-          <noscript>
-            <img src="//cdn.shopify.com/s/files/1/0282/9782/2287/files/H9abf0b9f59ce4e68b897efc54025ffb5O_dafb521b-7620-4523-ad26-bf9ce3a00867_896x896_1_800x.jpg?v=1589480190" alt="">
-          </noscript>
-        </div>
-      </div><div class="FeatureText__ContentWrapper">
-      <div class="FeatureText__Content"><header class="SectionHeader"><h2 class="SectionHeader__Heading Heading u-h1">UNIVERSAL FIT &amp; EASY TO USE</h2><div class="SectionHeader__Description Rte">
-                <p>Depending on the massage mode selected, the massager will move, pulse, vibrate, and rotate in all directions.</p>
-<p>Truly an unbelievable feeling, honestly.&nbsp;</p>
-              </div><div class="bttn">
-              <a href="/products/neckology-intelligent-neck-massager" class="Link Link--underline">BUY NOW</a>
-            </div></header></div>
-    </div></div>
-</section>
-
-</div><div id="shopify-section-1589483592800" class="shopify-section shopify-section--bordered"><section class="Section Section--spacingNormal mobile" id="section-1589483592800" data-section-id="1589483592800" data-section-type="testimonials">
-   <h2 class="head">TESTIMONIALS</h2>
-  <div class="TestimonialList  Carousel Carousel--fadeIn" data-flickity-config='{
-  "prevNextButtons": false,
-  "wrapAround": true,
-  "dragThreshold": 16,
-  "pageDots": true,
-  "autoPlay": 5000
-}'><div id="block-1589483592800-0" class="Carousel__Cell Testimonial is-selected"  data-slide-index="0">
-        <div class="Container"><div class="Testimonial__Content">
-              <p><em>The neck massager is really easy to use and very comfortable. It has a long battery life which Im happy about. My husband likes to use it on long car rides while driving since it&rsquo;s easy and compact for traveling and comes with a remote for easy control. Really great for helping his stiff neck. I&rsquo;m thinking about getting another one as a gift for my daughter.&nbsp;&nbsp;</em></p>
-<p>-<em>Karen Simpson</em></p>
-            </div></div>
-      </div><div id="block-1589483592800-1" class="Carousel__Cell Testimonial "  data-slide-index="1">
-        <div class="Container"><div class="Testimonial__Content">
-              <p><em>I have to admit, I was skeptical. And it took me a couple of tries to get it right. But once I figured it out, I was very happily surprised to learn that this really does work. If you have ever been to physical therapy, it will remind you of the machines they use to send electrical impulses and heat to injured areas. Don't be surprised by the slight 'shock' feeling -- it is actually doing the work!</em>&nbsp;</p>
-<p>-<em>Ivan Hubbard</em></p>
-            </div></div>
-      </div></div></section>
-
-<style>
-  #section-1589483592800 {
-    color: #ffffff;
-    background: #4ba5cd !important;
-  }
-
-  #section-1589483592800 .flickity-page-dots .dot:not(.is-selected) {
-    border-color: #66b3d5;
-  }
-</style>
-
-</div><div id="shopify-section-1589457804293" class="shopify-section"><div data-label="Loox Reviews" id="m-1588477992238" class="module-wrap" data-icon="gpicon-loox_reviews" data-ver="1" data-id="1588477992238" data-compile="false"><div class="module gf_module-left-lg gf_module-left-md gf_module-left-sm gf_module-left-xs " data-color="#203443" data-widget="reviews"><div id="looxReviews" data-product-id="" class="loox-reviews-default" data-loox-aggregate="" data-limit="10" data-mode="all"></div></div></div></div><div class="gf_clearfix">
-
-
-
-
-
-</div><!-- END content_for_index -->
       </main>
 
-      <div id="shopify-section-footer" class="shopify-section shopify-section--footer"><footer id="section-footer" class="Footer Footer--center " role="contentinfo">
+      <div id="shopify-section-footer" class="shopify-section shopify-section--footer"><footer id="section-footer" class="Footer Footer--center Footer--withMargin" role="contentinfo">
   <div class="Container"><div class="Footer__Inner"><div class="Footer__Block Footer__Block--links" ><h2 class="Footer__Title Heading u-h6">NECKOLOGY™ | INTELLIGENT NECK MASSAGER</h2>
 
                   <ul class="Linklist"><li class="Linklist__Item">
@@ -1157,9 +736,9 @@ window.OCUIncart = {
 };
 
 var lqd = {
-    cart: {"token":"07382a9e570a5f3125166cffa2a2a13e","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[]},
+    cart: {"token":"546dacbb546f400a311581d3134c3f95","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[]},
     path: '' === 'true' ? 'd56719fefdd75e95ba06caea3d9a3732' : '5965fedc7708e03e1024db4bf2ed5fe6',
-    template_name: 'index',
+    template_name: 'page',
     shop_currency: 'USD',
     upsellapp_tags: {"post_checkout":"----no_tags_available----","pre_checkout":"----no_tags_available----"},
     skip_cart: false,
@@ -2934,21 +2513,6 @@ function Store() {
 </script>
 
 
-
-    
-    <script>
-			document.addEventListener("StartScriptsLoaded", function(event)	
-			{
-				loadJS('//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/jquery.min.js?v=299519468875649319');
-			});
-		</script>
-    
-    <script>
-			document.addEventListener("StartScriptsLoaded", function(event)	
-			{
-				loadJS('//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/bootstrap.min.js?v=13726637366139988104');
-			});
-		</script>
 
     
 <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0282/9782/2287/t/31/assets/lazysizes.min.js?v=17435836340443258698" defer="defer"></script><!--<![endif]-->
